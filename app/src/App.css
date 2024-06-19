@@ -101,3 +101,17 @@ button:hover {
 .delete-button:hover {
   background-color: #cc0000;
 }
+
+.modal{
+    position: fixed;
+    top: 5rem;
+    left: 50rem;
+    width: 20%;
+    height: 20%;
+    background-color: rgb(224, 247, 250);
+    border: #00bfff 3px solid;
+    border-radius: 1rem;
+}
+.btnModal{
+ min-width: 5rem;
+}
